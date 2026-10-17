@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UNIFRANZ-FEXCO\\Documents\\Programacion Fundamental\\practica-grupal-NewGen\\ProyectoSolucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C26CA9E-8DCB-452F-89CB-1243A67E7B97}|ProyectoSolucion\\ProyectoSolucion.csproj|c:\\users\\unifranz-fexco\\documents\\programacion fundamental\\practica-grupal-newgen\\proyectosolucion\\proyectosolucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C26CA9E-8DCB-452F-89CB-1243A67E7B97}|ProyectoSolucion\\ProyectoSolucion.csproj|solutionrelative:proyectosolucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Documents\\Programacion Fundamental\\practica-grupal-NewGen\\ProyectoSolucion\\ProyectoSolucion\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoSolucion\\Program.cs",
+              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Documents\\Programacion Fundamental\\practica-grupal-NewGen\\ProyectoSolucion\\ProyectoSolucion\\Program.cs",
+              "RelativeToolTip": "ProyectoSolucion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T12:09:33.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
