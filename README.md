@@ -2,3 +2,4 @@
 Jose Manuel Conde Montecinos
 jeampierre yeferson zela huarca
 Josias Gabriel Vargas Merida 
+jose maria gutierrez aruqipa
