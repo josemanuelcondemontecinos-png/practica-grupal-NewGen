@@ -46,11 +46,26 @@ class Program
     // Opcion 3 (la programa C)
     static void ParImpar()
     {
-        Console.WriteLine("En construccion");
-    }
+            Console.Write("Ingrese un número entero: ");
+            if (int.TryParse(Console.ReadLine(), out int numero))
+            {
+                if (numero % 2 == 0)
+                {
+                    Console.WriteLine($"El número {numero} es PAR.");
+                }
+                else
+                {
+                    Console.WriteLine($"El número {numero} es IMPAR.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Error: Debe ingresar un número entero válido.");
+            }
+        }
 
-    // Opcion 4 (la programa D)
-    static void Tabla()
+        // Opcion 4 (la programa D)
+        static void Tabla()
     {
         Console.WriteLine("En construccion");
     }
